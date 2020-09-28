@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lab-01</string>
+    <string name="kabar">Bagaimana perasaanmu hari ini?</string>
+    <string name="tell_story">Bagikan Cerita</string>
+    <string name="thanks">Apapun yang terjadi, tetap semangat yaa!</string>
+    <string name="suprise">Klik untuk kejutan</string>
 </resources>
