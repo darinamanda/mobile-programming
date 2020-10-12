@@ -13,9 +13,9 @@ class ListViewModel : ViewModel() {
 
     fun refesh() {
 
-        val pokemonList: ArrayList<Powerpuff> = powerpuffDb
+        val powerpuffList: ArrayList<Powerpuff> = powerpuffDb
 
-        powerpuffs.value = pokemonList
+        powerpuffs.value = powerpuffList
         error.value = false
         loading.value = false
     }
